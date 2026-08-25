@@ -1,0 +1,13 @@
+# Excel temporary and lock files
+~$*.xls*
+*.tmp
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor and environment files
+.vscode/
+.idea/
+.env
+.env.*
